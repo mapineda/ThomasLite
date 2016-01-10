@@ -16,7 +16,7 @@ You can clone Thomas Lite using brunch. This will run `npm install` and `bower i
 brunch new https://github.com/Creative-Licence-Digital/ThomasLite.git your-template
 ```
 
-Now you are ready to run Thomas...the train
+Now you are ready to run Thomas...
 
 ```
 brunch w -s
